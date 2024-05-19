@@ -1,4 +1,5 @@
-# Guess-The-Number
+# Guess-The-Number<br>
+In Guess a Number, the program selects a random number within a specified range. The player must guess the number, receiving feedback on whether their guess is too high, too low, or correct. The game continues until the number of attempts run out.<br>
 ### <ins> How to Play:</ins><br>
 Start the game:
 Run the script to start the game. The program will prompt you to guess a number within a specified range ( between 1 and 100).You can make only 10 guesses.
